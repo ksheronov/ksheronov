@@ -2,7 +2,9 @@
 
 ### 💻 Java Backend Developer
 
-Passionate about backend development, clean code, and building reliable applications with Java.
+### About me
+* I am Java Backend Developer 💻
+* I learn Java at [Job4j](https://job4j.ru/) :coffee:
 
 ---
 
